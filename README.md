@@ -1,1 +1,1 @@
-# HPC_Microcredential
+# CURC_Microcredential
