@@ -1,4 +1,4 @@
-# High Performance Computing Microcredential
+# High Performance Computing Micro-credential
 ## Fall 2025 
 This micro-credentialed course provides a foundation for addressing computing-, memory-, or storage-intensive research problems using high-performance computing (HPC). Participants who complete the course will be able to navigate the Linux command line, apply data transfer protocols, find and use software on HPC, and use a scheduler to run batch and interactive jobs. Skills acquired in the course can greatly accelerate problem solving in the computational realm.
 
