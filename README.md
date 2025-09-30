@@ -1,2 +1,2 @@
-# CURC_Microcredential
-This micro-credentialed course provides a foundation for addressing computing-, memory-, or storage-intensive research problems using high-performance computing (HPC). Participants who complete the course will be able to navigate the Linux command line, apply data transfer protocols, find and use software on HPC, and use a scheduler to run batch and interactive jobs. Skills acquired in the course can greatly accelerate problem solving in the computational realm. 
+# CURC Microcredentials
+This repository holds the certificates for the CU Research Computing Microcredentials. The certificates are organized into directories named after the COURSE and SEMESTER the microcredential was offered in.
